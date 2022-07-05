@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: fb593f96ca00d924b9b62729ee64299f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Clavicle
+    100006: Bip001 L Finger0
+    100008: Bip001 L Finger01
+    100010: Bip001 L Finger1
+    100012: Bip001 L Finger11
+    100014: Bip001 L Finger2
+    100016: Bip001 L Finger21
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L UpperArm
+    100024: Bip001 Neck
+    100026: Bip001 Pelvis
+    100028: Bip001 R Clavicle
+    100030: Bip001 R Finger0
+    100032: Bip001 R Finger01
+    100034: Bip001 R Finger1
+    100036: Bip001 R Finger11
+    100038: Bip001 R Finger2
+    100040: Bip001 R Finger21
+    100042: Bip001 R Forearm
+    100044: Bip001 R Hand
+    100046: Bip001 R UpperArm
+    100048: Bip001 Spine
+    100050: Bip001 Spine1
+    100052: Bip001 Xtra01
+    100054: Bip001 Xtra0102
+    100056: Bip001 Xtra0103
+    100058: Bip001 Xtra0104
+    100060: Bip001 Xtra0105
+    100062: equip_armband_L
+    100064: equip_armband_R
+    100066: equip_belt
+    100068: equip_bracers_01_L
+    100070: equip_bracers_01_R
+    100072: equip_bracers_02_L
+    100074: equip_bracers_02_R
+    100076: equip_breastplate_01
+    100078: equip_breastplate_02
+    100080: equip_capecap
+    100082: equip_crown
+    100084: equip_evilhorn_01
+    100086: equip_evilhorn_02
+    100088: equip_gem
+    100090: equip_helmet
+    100092: equip_mask_01
+    100094: equip_mask_02
+    100096: equip_mask_03
+    100098: equip_pauldrons_01_L
+    100100: equip_pauldrons_01_R
+    100102: equip_pauldrons_02_L
+    100104: equip_pauldrons_02_R
+    100106: equip_shield
+    100108: equip_tasset
+    100110: ma05_Reaper_body
+    100112: //RootNode
+    100114: weapon_axe
+    100116: weapon_bow
+    100118: weapon_knife
+    100120: weapon_staff
+    100122: weapon_sword
+    100124: ma05_body
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Clavicle
+    400006: Bip001 L Finger0
+    400008: Bip001 L Finger01
+    400010: Bip001 L Finger1
+    400012: Bip001 L Finger11
+    400014: Bip001 L Finger2
+    400016: Bip001 L Finger21
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L UpperArm
+    400024: Bip001 Neck
+    400026: Bip001 Pelvis
+    400028: Bip001 R Clavicle
+    400030: Bip001 R Finger0
+    400032: Bip001 R Finger01
+    400034: Bip001 R Finger1
+    400036: Bip001 R Finger11
+    400038: Bip001 R Finger2
+    400040: Bip001 R Finger21
+    400042: Bip001 R Forearm
+    400044: Bip001 R Hand
+    400046: Bip001 R UpperArm
+    400048: Bip001 Spine
+    400050: Bip001 Spine1
+    400052: Bip001 Xtra01
+    400054: Bip001 Xtra0102
+    400056: Bip001 Xtra0103
+    400058: Bip001 Xtra0104
+    400060: Bip001 Xtra0105
+    400062: equip_armband_L
+    400064: equip_armband_R
+    400066: equip_belt
+    400068: equip_bracers_01_L
+    400070: equip_bracers_01_R
+    400072: equip_bracers_02_L
+    400074: equip_bracers_02_R
+    400076: equip_breastplate_01
+    400078: equip_breastplate_02
+    400080: equip_capecap
+    400082: equip_crown
+    400084: equip_evilhorn_01
+    400086: equip_evilhorn_02
+    400088: equip_gem
+    400090: equip_helmet
+    400092: equip_mask_01
+    400094: equip_mask_02
+    400096: equip_mask_03
+    400098: equip_pauldrons_01_L
+    400100: equip_pauldrons_01_R
+    400102: equip_pauldrons_02_L
+    400104: equip_pauldrons_02_R
+    400106: equip_shield
+    400108: equip_tasset
+    400110: ma05_Reaper_body
+    400112: //RootNode
+    400114: weapon_axe
+    400116: weapon_bow
+    400118: weapon_knife
+    400120: weapon_staff
+    400122: weapon_sword
+    400124: ma05_body
+    2300000: equip_armband_L
+    2300002: equip_armband_R
+    2300004: equip_belt
+    2300006: equip_bracers_01_L
+    2300008: equip_bracers_01_R
+    2300010: equip_bracers_02_L
+    2300012: equip_bracers_02_R
+    2300014: equip_breastplate_01
+    2300016: equip_breastplate_02
+    2300018: equip_capecap
+    2300020: equip_crown
+    2300022: equip_evilhorn_01
+    2300024: equip_evilhorn_02
+    2300026: equip_gem
+    2300028: equip_helmet
+    2300030: equip_mask_01
+    2300032: equip_mask_02
+    2300034: equip_mask_03
+    2300036: equip_pauldrons_01_L
+    2300038: equip_pauldrons_01_R
+    2300040: equip_pauldrons_02_L
+    2300042: equip_pauldrons_02_R
+    2300044: equip_shield
+    2300046: equip_tasset
+    2300048: weapon_axe
+    2300050: weapon_bow
+    2300052: weapon_knife
+    2300054: weapon_staff
+    2300056: weapon_sword
+    3300000: equip_armband_L
+    3300002: equip_armband_R
+    3300004: equip_belt
+    3300006: equip_bracers_01_L
+    3300008: equip_bracers_01_R
+    3300010: equip_bracers_02_L
+    3300012: equip_bracers_02_R
+    3300014: equip_breastplate_01
+    3300016: equip_breastplate_02
+    3300018: equip_capecap
+    3300020: equip_crown
+    3300022: equip_evilhorn_01
+    3300024: equip_evilhorn_02
+    3300026: equip_gem
+    3300028: equip_helmet
+    3300030: equip_mask_01
+    3300032: equip_mask_02
+    3300034: equip_mask_03
+    3300036: equip_pauldrons_01_L
+    3300038: equip_pauldrons_01_R
+    3300040: equip_pauldrons_02_L
+    3300042: equip_pauldrons_02_R
+    3300044: equip_shield
+    3300046: equip_tasset
+    3300048: weapon_axe
+    3300050: weapon_bow
+    3300052: weapon_knife
+    3300054: weapon_staff
+    3300056: weapon_sword
+    4300000: equip_capecap
+    4300002: equip_helmet
+    4300004: equip_mask_01
+    4300006: equip_mask_02
+    4300008: equip_mask_03
+    4300010: equip_evilhorn_02
+    4300012: equip_evilhorn_01
+    4300014: equip_crown
+    4300016: equip_gem
+    4300018: equip_shield
+    4300020: equip_bracers_01_L
+    4300022: equip_bracers_02_L
+    4300024: equip_armband_L
+    4300026: weapon_axe
+    4300028: weapon_bow
+    4300030: weapon_sword
+    4300032: weapon_knife
+    4300034: weapon_staff
+    4300036: equip_bracers_01_R
+    4300038: equip_bracers_02_R
+    4300040: equip_armband_R
+    4300042: equip_pauldrons_01_L
+    4300044: equip_pauldrons_01_R
+    4300046: equip_pauldrons_02_R
+    4300048: equip_pauldrons_02_L
+    4300050: equip_breastplate_02
+    4300052: equip_breastplate_01
+    4300054: equip_belt
+    4300056: equip_tasset
+    4300058: ma05_Reaper_body
+    4300060: ma05_body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ma05_Reaper_body
+    13700002: ma05_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ma05_Reaper
+    second: {fileID: 2100000, guid: 392d1c8a8435ef64a91587a3894ff130, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.012999999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
